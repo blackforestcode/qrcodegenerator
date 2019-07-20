@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qrcodegenerator/static/css/main.d9507cc5.chunk.css",
+    "main.js": "/qrcodegenerator/static/js/main.3cb1f0f7.chunk.js",
+    "main.js.map": "/qrcodegenerator/static/js/main.3cb1f0f7.chunk.js.map",
+    "runtime~main.js": "/qrcodegenerator/static/js/runtime~main.c78b961e.js",
+    "runtime~main.js.map": "/qrcodegenerator/static/js/runtime~main.c78b961e.js.map",
+    "static/js/2.c2695c00.chunk.js": "/qrcodegenerator/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/qrcodegenerator/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/qrcodegenerator/index.html",
+    "precache-manifest.2def897b46325e40dc248ffc291ef5c1.js": "/qrcodegenerator/precache-manifest.2def897b46325e40dc248ffc291ef5c1.js",
+    "service-worker.js": "/qrcodegenerator/service-worker.js",
+    "static/css/main.d9507cc5.chunk.css.map": "/qrcodegenerator/static/css/main.d9507cc5.chunk.css.map"
+  }
+}
