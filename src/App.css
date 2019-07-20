@@ -13,8 +13,8 @@
 
 .spinner {
   display: inline-block;
-  width: 50px;
-  height: 50px;
+  width: 150px;
+  height: 150px;
   border: 3px solid #9b4dca;
   border-radius: 50%;
   border-top-color: #fff;

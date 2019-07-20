@@ -117,14 +117,19 @@ const App = () => {
         <hr />
         <div className="row">
           <div className="column">
-            made with &hearts; by{' '}
-            <a
-              href="https://blackforestcode.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              BLACK FOREST CODE
-            </a>
+            <span className="float-left">
+              made with &hearts; by{' '}
+              <a
+                href="https://blackforestcode.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                BLACK FOREST CODE
+              </a>
+            </span>
+            <span className="float-right">
+              <small>„QR Code“ is a trademark of DENSO WAVE INCORPORATED</small>
+            </span>
           </div>
         </div>
       </div>
